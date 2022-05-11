@@ -1,10 +1,10 @@
 # Amazon-Order-Processing
 
-#Problem Statement
+#bProblem Statement
 Using an array Blocking Queue as a buffer, construct a program that simulates the order process of amazon.com. 
 Starting from when you place the order to when it is delivered to your house.
 
-#Devloper Documentation
+# Devloper Documentation
 The program consists of several classes; Buffer.java, BlockingBuffer.java, WebServer.Java, Section1.java, Section2.java, 
 Section3.java, ShippingCenter.java, ShippingDock.java, Truck1.java, Truck2.java, and OrderProcessingDriver.java. The Buffer 
 class serves as an interface used within BlockingBuffer.java. BlockingBuffer.Java sets up the blockingPut() and blockingGet() 
